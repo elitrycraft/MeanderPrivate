@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="docs/logo.svg" width="96" alt="MeanderPrivate">
+  <img src="docs/logo.svg" width="96" alt="Meander">
 </p>
 
-<h1 align="center">Meander</h1>
+<h1 align="center">MeanderPrivate</h1>
 
 <p align="center">
   Открытый движок текстовых квестов и визуальных новелл.<br>
