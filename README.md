@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/logo.svg" width="96" alt="Meander">
+  <img src="docs/logo.svg" width="96" alt="MeanderPrivate">
 </p>
 
 <h1 align="center">Meander</h1>
